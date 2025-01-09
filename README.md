@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on DevOps
+- 🔭 I’m currently working on Opentelemetry, Observability and DevOps Practices
 
 - 👯 I’m looking to collaborate on DevSecOps projects 
 
