@@ -13,13 +13,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Opentelemetry, Observability and DevOps Practices
+- 🔭 I’m currently working on Opentelemetry, Observability, and DevOps
 
 - 👯 I’m looking to collaborate on DevSecOps projects 
 
 - 💬 Talk to me about Linux, Cloud & Open Source
 
- - 📝 I regularly write articles on [Hashnode](https://manassharma.hashnode.dev/)
+ - 📝 You can read my blogs [here](https://openobserve.ai/blog/author/manas)
 
 - 📫 How to reach me **manassharma7268@gmail.com**
 
